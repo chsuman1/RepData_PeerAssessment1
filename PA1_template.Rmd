@@ -2,10 +2,9 @@
 title: "Reproducible Research: Peer Assessment 1" 
 author: "Suman Challagulla"
 date: "Nov 10th, 2014"
-output: 
-  html_document:
-    keep_md: true
 ---
+
+# Reproducible Research: Peer Assessment 1
 
 ###Summary
 This is the first assessment for the **Reproducible Research** course in Coursera. The goal of this assessment is to analyze data from [FitBit](http://fitbit.com) to answer a number of questions and to make this data analysis reproducible through an R markdown document. 
